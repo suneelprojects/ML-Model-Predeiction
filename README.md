@@ -27,7 +27,7 @@ The prediction is made using a Random Forest Classifier trained on a small sampl
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/yourusername/ml-loan-approval.git
+   git clone https://github.com/suneelprojects/ML-Model-Predeiction.git
    cd ml-loan-approval
 2. **Create and activate a virtual environment (optional but recommended)**
 
